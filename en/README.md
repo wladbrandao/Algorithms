@@ -1,9 +1,11 @@
 [Vers&atilde;o em Portugu&ecirc;s](/README.md)
 
 # Design of Algorithms
-This is a set of lectures and material on natural language processing providing an introduction to the main methods and algorithms used to address practical problems involving natural language. See also the current courses related to this topic:
+This is a set of lectures and material on algorithms design providing an introduction to the main methods and techniques used to implement algorithms for important computational problems. See also the current courses related to this topic:
 
-* [Introduction to Natural Language Processing](NLP202001.md): course offered in the 1st semester of 2020 to the students of the [Graduate Program in Informatics](http://portal.pucminas.br/pos/informatica) at [PUC Minas](http://www.pucminas.br).
+* [LAD (Laboratory of Algorithms Design](LDA202001M.md): course offered on **mondays** in the 1st semester of 2020 to the students of the [BSc Program in Computer Science](https://www.pucminas.br/unidade/coracao-eucaristico/ensino/graduacao/Paginas/Ciencia-da-Computacao.aspx?tipo=152f25a5-fa8d-4d04-a7ba-57b6b4c21265&campi=ab23480c-5f60-4752-b990-1ac1cf9b8cf5&curso=180#) at [PUC Minas](http://www.pucminas.br).
+
+* [LAD (Laboratory of Algorithms Design](LDA202001W.md): course offered on **wednesdays** in the 1st semester of 2020 to the students of the [BSc Program in Computer Science](https://www.pucminas.br/unidade/coracao-eucaristico/ensino/graduacao/Paginas/Ciencia-da-Computacao.aspx?tipo=152f25a5-fa8d-4d04-a7ba-57b6b4c21265&campi=ab23480c-5f60-4752-b990-1ac1cf9b8cf5&curso=180#) at [PUC Minas](http://www.pucminas.br).
 
 ## Introduction
 Natural language processing (NLP) is one of the most important technologies since people communicate most everything in language, from emails, instant messages, web search, posts in social networks to customer service and medical reports.

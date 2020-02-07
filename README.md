@@ -1,9 +1,11 @@
 [English Version](en/README.md)
 
 # Projeto de Algoritmos
-This is a set of lectures and material on natural language processing providing an introduction to the main methods and algorithms used to address practical problems involving natural language. See also the current courses related to this topic:
+Este &eacute; um conjunto de palestras e materiais sobre projeto de algoritmos provendo uma introdu&ccedil;&atilde;o aos principais m&eacute;todos e t&eacute;cnicas usados para implementa&ccedil;&atilde;o de algoritmos para resolu&ccedil&atilde;o de importantes problemas computacionais. Veja tamb&eacute;m os cursos atuais relacionados a esse t&oacute;pico:
 
-* [Introduction to Natural Language Processing](NLP202001.md): course offered in the 1st semester of 2020 to the students of the [Graduate Program in Informatics](http://portal.pucminas.br/pos/informatica) at [PUC Minas](http://www.pucminas.br).
+* [LPA (Laborat&oacute;rio de Projeto de Algoritmos)](LAD202001M.md): curso ofertado &agrave;s **segundas-feiras** no 1&ordm; semestre de 2020 para os alunos do [Programa de Gradua&ccedil;&atilde;o em Ci&ecirc;ncia da Computa&ccedil;&atilde;o](https://www.pucminas.br/unidade/coracao-eucaristico/ensino/graduacao/Paginas/Ciencia-da-Computacao.aspx?tipo=152f25a5-fa8d-4d04-a7ba-57b6b4c21265&campi=ab23480c-5f60-4752-b990-1ac1cf9b8cf5&curso=180#) da [PUC Minas](http://www.pucminas.br).
+
+* [LPA (Laborat&oacute;rio de Projeto de Algoritmos)](LAD202001W.md): curso ofertado &agrave;s **quartas-feiras** no 1&ordm; semestre de 2020 para os alunos do [Programa de Gradua&ccedil;&atilde;o em Ci&ecirc;ncia da Computa&ccedil;&atilde;o](https://www.pucminas.br/unidade/coracao-eucaristico/ensino/graduacao/Paginas/Ciencia-da-Computacao.aspx?tipo=152f25a5-fa8d-4d04-a7ba-57b6b4c21265&campi=ab23480c-5f60-4752-b990-1ac1cf9b8cf5&curso=180#) da [PUC Minas](http://www.pucminas.br).
 
 ## Introdu&ccedil;&atilde;o
 Natural language processing (NLP) is one of the most important technologies since people communicate most everything in language, from emails, instant messages, web search, posts in social networks to customer service and medical reports.
