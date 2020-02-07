@@ -5,7 +5,7 @@ This is a set of lectures and material on natural language processing providing 
 
 * [Introduction to Natural Language Processing](NLP202001.md): course offered in the 1st semester of 2020 to the students of the [Graduate Program in Informatics](http://portal.pucminas.br/pos/informatica) at [PUC Minas](http://www.pucminas.br).
 
-## Introsu&ccedil;&atilde;o
+## Introdu&ccedil;&atilde;o
 Natural language processing (NLP) is one of the most important technologies since people communicate most everything in language, from emails, instant messages, web search, posts in social networks to customer service and medical reports.
 Particularly, NLP refers to the set of methods for making human language accessible to machines \[[2](#Eisenstein-2018-BOOK)\]. It designates the design and analysis of representations, methods and algorithms to solve practical language problems by taking as input or produce as output unstructured natural human language data \[[3](#Goldberg-2017-SLHLT)\]. Usually, problems in NLP involve automatic speech recognition and text summarization, information extraction, machine translation, natural language understanding and generation, sentiment and discouse analysis.
 
