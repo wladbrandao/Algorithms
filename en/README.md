@@ -1,11 +1,11 @@
-[English Version](en/README.md)
+[Vers&atilde;o em Portugu&ecirc;s](/README.md)
 
-# Projeto de Algoritmos
+# Design of Algorithms
 This is a set of lectures and material on natural language processing providing an introduction to the main methods and algorithms used to address practical problems involving natural language. See also the current courses related to this topic:
 
 * [Introduction to Natural Language Processing](NLP202001.md): course offered in the 1st semester of 2020 to the students of the [Graduate Program in Informatics](http://portal.pucminas.br/pos/informatica) at [PUC Minas](http://www.pucminas.br).
 
-## Introsu&ccedil;&atilde;o
+## Introduction
 Natural language processing (NLP) is one of the most important technologies since people communicate most everything in language, from emails, instant messages, web search, posts in social networks to customer service and medical reports.
 Particularly, NLP refers to the set of methods for making human language accessible to machines \[[2](#Eisenstein-2018-BOOK)\]. It designates the design and analysis of representations, methods and algorithms to solve practical language problems by taking as input or produce as output unstructured natural human language data \[[3](#Goldberg-2017-SLHLT)\]. Usually, problems in NLP involve automatic speech recognition and text summarization, information extraction, machine translation, natural language understanding and generation, sentiment and discouse analysis.
 
@@ -17,7 +17,7 @@ In particular, deep neural network based approaches have obtained very high perf
 NLP tasks \[[4](#Goldberg-2016-JAIR)\]. These models can often be trained with a single end-to-end model and do not require traditional, task specific feature engineering.
 Such neural NLP have been they have been more effective for understanding complex language utterances and have been viewed as a new paradigm distinct from statistical NLP.
 
-## Palestras
+## Lectures
 
 1. Introduction to NLP [ slides ]
 1. Vector representations [ slides ]
@@ -38,17 +38,17 @@ Such neural NLP have been they have been more effective for understanding comple
 
 1. [Channel: Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z) by Stanford University.
 
-### Outros Recursos
+### Other Resources
 
 1. [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) by Michael A. Nielsen.
 1. [Deep Learning](http://www.deeplearningbook.org) by Ian Goodfellow, Yoshua Bengio and Aaron Courville.
 
-## Informa&ccedil;&atilde;o Adicional
+## Further Information
 
 Most of the topics of the lectures are taken from \[[1](#Jurafsky-2019-BOOK)\], \[[2](#Eisenstein-2018-BOOK)\] and \[[3](#Goldberg-2017-SLHLT)\]. Material and assignments are mostly inspired by the Stanford course [Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/).
 
 
-## Refer&ecirc;ncias
+## References
 
 <a name="Jurafsky-2019-BOOK"></a>\[[1][1]\] Dan Jurafsky, and James H. Martin. Speech and Language Processing. 3rd ed. 2019.
 
