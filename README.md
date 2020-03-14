@@ -34,16 +34,22 @@ O impacto dos algoritmos na sociedade e no cotidiano das pessoas &eacute; amplo 
 
 ### Videos
 
-1. [Channel: Intro to Database Systems](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi) por Carnegie Mellon University.
+1. [Channel: Introduction to Algorithms](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb) por Massachusetts Institute of Technology.
 
 ### Outros Recursos
 
-1. [The ANSI Blog: The SQL Standard – ISO/IEC 9075:2016](https://blog.ansi.org/?p=158690)
-1. [Relax: Relational algebra calculator](https://dbis-uibk.github.io/relax/).
+1. [The Online Judge Project](https://onlinejudge.org/)
+1. [The URI Online Judge Project](https://www.urionlinejudge.com.br/)
+1. [Maratona de Programa&ccedil;&atilde;o](http://maratona.ime.usp.br/)
+1. [PUC Minas: Plataforma Verde](http://maratona.crc.pucminas.br/)
 
 ## Informa&ccedil;&atilde;o Adicional
 
-Grande parte dos t&oacute;picos e palestras se basearam em \[[2](#Cormen-2012-BOOK)\]. Materiais e atividades foram inspirados no curso da Carnegie Mellon [Intro to Database Systems](https://15445.courses.cs.cmu.edu/fall2019/).
+Grande parte dos t&oacute;picos e palestras se basearam em \[[2](#Cormen-2012-BOOK)\]. Materiais e atividades foram inspirados no curso da Princeton [Algorithms](https://algs4.cs.princeton.edu/lectures/).
+
+## Notas
+
+Agradecimento pelo fornecimento dos *slides* a [Prof. Dra. Raquel Aparecida de Freitas Mini](http://lattes.cnpq.br/6331835838649652).
 
 ## Refer&ecirc;ncias
 
