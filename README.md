@@ -45,10 +45,6 @@ O impacto dos algoritmos na sociedade e no cotidiano das pessoas &eacute; amplo 
 
 Grande parte dos t&oacute;picos e palestras se basearam em \[[2](#Cormen-2012-BOOK)\]. Materiais e atividades foram inspirados no curso da Carnegie Mellon [Intro to Database Systems](https://15445.courses.cs.cmu.edu/fall2019/).
 
-## Notas
-
-Agradecimento ao suporte no desenvolvimento dos *slides* a [Adriane de Jesus Miranda Gomes](https://www.linkedin.com/in/adrianegomes/) e [Victor Theles da Silva Costa](https://www.linkedin.com/in/victor-theles-silva-costa/).
-
 ## Refer&ecirc;ncias
 
 <a name="Knuth-1997-BOOK"></a>\[[1][1]\] Donald E. Knuth. The Art of Computer Programming: Fundamental Algorithms. Volume 1, 3rd edition. Addison Wesley Longman Publishing. 1997.
