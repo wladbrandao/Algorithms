@@ -45,7 +45,7 @@ O impacto dos algoritmos na sociedade e no cotidiano das pessoas &eacute; amplo 
 
 ## Informa&ccedil;&atilde;o Adicional
 
-Grande parte dos t&oacute;picos e palestras se basearam em \[[2](#Cormen-2012-BOOK)\]. Materiais e atividades foram inspirados no curso da Princeton [Algorithms](https://algs4.cs.princeton.edu/lectures/).
+Grande parte dos t&oacute;picos e palestras se basearam em \[[2](#Cormen-2012-BOOK)\]. Materiais e atividades foram inspirados nos cursos [Algorithms](https://algs4.cs.princeton.edu/lectures/) e [Algorithms and Data Structures II](http://user.it.uu.se/~pierref/courses/AD2/lectures.html).
 
 ## Notas
 
